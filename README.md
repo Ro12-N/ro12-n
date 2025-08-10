@@ -87,11 +87,17 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ro12-n&show_icons=true&locale=en&layout=compact" alt="ro12-n" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ro12-n&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="ro12-n" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ro12-n&show_icons=true&locale=en" alt="ro12-n" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ro12-n&show_icons=true&locale=en&cache_seconds=1800" alt="ro12-n" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ro12-n&" alt="ro12-n" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ro12-n&cache_seconds=1800" alt="ro12-n" />
+</p>
 
 ## 📧 Connect with me:
 <p align="left">
