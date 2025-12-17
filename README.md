@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ro12-n&label=Profile%20views&color=0e75b6&style=flat" alt="ro12-n" /> </p>
 
-- 🔭 I’m currently working on **Version Control System**
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Deep Learning (DL)**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
-- 💬 Ask me about **DSA, C++, React, Node.js, Express, MongoDB**
 
 - 📫 How to reach me **mulintirohan123@gmail.com**
 
-- ⚡ Fun fact **I can debug faster with coffee than without it ☕**
 
 <p align="left">
 </p>
