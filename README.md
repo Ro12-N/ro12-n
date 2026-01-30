@@ -49,38 +49,40 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" /><br>PostgreSQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="55" height="55" /><br>Kafka</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/scikit-learn-orange" width="55" height="55" /><br>Scikit-Learn</td>
-    <td align="center" width="90"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="55" height="55" /><br>PyTorch</td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55" /><br>Pandas</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/grafana-orange" width="55" height="55" /><br>Grafana</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/prometheus-red" width="55" height="55" /><br>Prometheus</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" /><br>Prisma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=strapi" width="55" height="55" /><br>Strapi</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=convex" width="55" height="55" /><br>Convex</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=neon" width="55" height="55" /><br>NeonDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=e2b" width="55" height="55" /><br>E2B</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sandpack" width="55" height="55" /><br>Sandboxes</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=code" width="55" height="55" /><br>Code Rabbit</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=inngest" width="55" height="55" /><br>Inngest</td>
   </tr>
 </table>
+
 
 # 📊 GitHub Stats:
 
