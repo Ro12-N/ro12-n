@@ -78,28 +78,21 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" width="55" height="55" /><br>GitHub Actions</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" width="55" height="55" /><br>Jenkins</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" width="55" height="55" /><br>CircleCI</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=for-the-badge&logo=travis&logoColor=white" width="55" height="55" /><br>Travis CI</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
+     <td align="center" width="90"><img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>Convex</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/NeonDB-00FFFF?style=for-the-badge&logo=generic&logoColor=black" width="55" height="55" /><br>NeonDB</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/E2B-000000?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>E2B</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Prisma-2B2B2B?style=for-the-badge&logo=prisma&logoColor=white" width="55" height="55" /><br>Prisma</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white" width="55" height="55" /><br>Strapi</td>
   </tr>
 
   <!-- Row 4: AI / Other Tools -->
 <!-- Row 4: AI / Other Tools (Convex, NeonDB, Inngest fixed) -->
-<tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>Convex</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/NeonDB-00FFFF?style=for-the-badge&logo=generic&logoColor=black" width="55" height="55" /><br>NeonDB</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/E2B-000000?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>E2B</td>
+<tr></tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Sandboxes-555555?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>Sandboxes</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Code%20Rabbit-ff6600?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>Code Rabbit</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Inngest-0078D7?style=for-the-badge&logo=generic&logoColor=white" width="55" height="55" /><br>Inngest</td>
-    <td align="center" width="90"> </td>
-    <td align="center" width="90"> </td>
-    <td align="center" width="90"> </td>
-    <td align="center" width="90"> </td>
 </tr>
 </table>
 
