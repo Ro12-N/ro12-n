@@ -12,33 +12,6 @@
 - 📫 How to reach me **mulintirohan123@gmail.com**
 
 
-<p align="left">
-</p>
-## 🏅 My LeetCode Badges
-
-<p align="center">
-  <!-- Submission Days -->
-  <img src="https://assets.leetcode.com/static_assets/marketing/365.gif" width="40" alt="365 Days Badge" />
-
-  <!-- Annual Medals -->
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40" alt="200 Days Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40" alt="100 Days Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40" alt="50 Days Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="40" alt="200 Days Badge 2024" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40" alt="100 Days Badge 2024" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40" alt="50 Days Badge 2024" />
-
-  <!-- Daily Medals -->
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-07.gif" width="40" alt="Jul Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-06.gif" width="40" alt="Jun Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-05.gif" width="40" alt="May Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-04.gif" width="40" alt="Apr Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-03.gif" width="40" alt="Mar Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-02.gif" width="40" alt="Feb Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2025/gif/2025-01.gif" width="40" alt="Jan Badge 2025" />
-  <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-12.gif" width="40" alt="Dec Badge 2024" />
-</p>
-
 
 
 
@@ -104,17 +77,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ro12-N&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ro12-N&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ro12-N&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ro12-N&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ro12-N&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 📧 Connect with me:
