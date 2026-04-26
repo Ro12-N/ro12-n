@@ -73,14 +73,14 @@
 
 ## 🚀 Featured Projects
 
-### 🏆 CodeArena - LeetCode Style Platform
+### 🏆 AlgoArena - LeetCode Style Platform
 **Next.js, TypeScript, Prisma, PostgreSQL, Clerk, Judge0**
 - Built coding platform with 50+ DSA problems
 - Integrated Judge0 for secure code execution in 10+ languages
 - Implemented role-based auth (Admin/User) and submission history
 - Monaco Editor with syntax highlighting
 
-### 🤖 AI Project Builder - V0 Clone
+### 🤖 AI Project Builder - DevLab
 **Next.js, OpenAI, Inngest, E2B, Stripe, Prisma**
 - AI generates complete Next.js projects from natural language descriptions
 - E2B sandbox for isolated code execution and live preview
@@ -94,7 +94,7 @@
 - Google OAuth authentication with Arcjet rate limiting
 - Subscription plans with Stripe integration
 
-### 💬 T3 Chat - Multi-Model AI Chat
+### 💬 Sync Chat - Multi-Model AI Chat
 **Next.js, Prisma, Better Auth, OpenRouter, Zustand**
 - Support for GPT-4, Claude, Gemini via OpenRouter API
 - Real-time streaming responses
